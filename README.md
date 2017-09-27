@@ -1,4 +1,4 @@
 # SimpleProgressBarHorizontal
 Simple Progress Bar Horizontal and Show the Progress and until 100% activity to change to another activity with intent
 
-<img src="https://github.com/moeslimdecoded/SimpleProgressBarHorizontal/blob/master/ProgressBar%20and%20Intent.png" width="1365" height="767" />
+<img src="https://github.com/moeslimdecoded/SimpleProgressBarHorizontal/blob/master/ProgressBar%20and%20Intent.png" />
